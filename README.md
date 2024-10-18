@@ -18,7 +18,7 @@ Origine : [Hash-ish](https://hackropole.fr/fr/challenges/crypto/fcsc2022-crypto-
 > http://localhost
 
 #### tentez 
-> nc guess-me-too.cyrhades.fr:4000
+> nc hash-ish.cyrhades.fr:4000
 
 -----------
 
